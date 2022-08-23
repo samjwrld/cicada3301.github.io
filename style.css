@@ -60,7 +60,7 @@ css list:
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,800');
 
 body{
-	background: #062489;
+	background: #0b4167;;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	color: #cbe5ff;
@@ -204,7 +204,7 @@ a.single-about,
 }
 
 .main-menu li ul li a:hover {
-  background: #062489;
+  background: #0b4167;;
   padding-left: 15px;
 }
 
@@ -350,7 +350,7 @@ a.single-about {
   color: #cbe5ff;
   display: block;
   padding: 50px 25px;
-  background: #1938a2;
+  background: #b4167;
   text-align: center;
   -webkit-transform: translateY(0px);
   -ms-transform: translateY(0px);
@@ -1186,7 +1186,7 @@ welcome area v2 css
 .progress.v2 {
   margin: 10px 0;
   height: 30px;
-  background: #062489;
+  background: #0b4167;;
 }
 
 .v2.welcome-progress a.gradient-btn {
@@ -1388,7 +1388,7 @@ community v2 area css
 }
 
 .single-footer .footer-form.v2{
-  background: #062489;
+  background: #0b4167;;
 }
 /*==========================
 blog page css
@@ -1510,7 +1510,7 @@ a.single-blog-top:hover {
   font-weight: 700;
 }
 .quite-area {
-  background: #1938a2;
+  background: #0b4167;
   padding: 30px 0;
 }
 .quite-text {
@@ -1603,7 +1603,7 @@ a.single-blog-top:hover {
   border: none;
   padding: 10px 20px;
   border-radius: 5px;
-  background: #062489;
+  background: #0b4167;;
   color: #fff;
   border: 1px solid #163fcb;
 }
@@ -1651,7 +1651,7 @@ a.single-blog-top:hover {
   padding-left: 20px;
   text-transform: capitalize;
   color: #fff;
-  background:#062489;
+  background:#0b4167;;
 }
 
 .single-blog-contact textarea{
