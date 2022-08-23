@@ -60,7 +60,7 @@ css list:
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,800');
 
 body{
-	background: #0b4167;;
+	background: #0b4167;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	color: #cbe5ff;
@@ -350,7 +350,7 @@ a.single-about {
   color: #cbe5ff;
   display: block;
   padding: 50px 25px;
-  background: #b4167;
+  background: #0b4167;
   text-align: center;
   -webkit-transform: translateY(0px);
   -ms-transform: translateY(0px);
